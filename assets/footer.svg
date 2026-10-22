@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-labelledby="title">
+  <title id="title">Understand, build, verify, iterate</title>
+  <rect width="1200" height="92" rx="12" fill="#0d1726"/>
+  <path d="M44 46h140m832 0h140" stroke="#2b455c"/>
+  <circle cx="44" cy="46" r="3" fill="#5eead4"/><circle cx="1156" cy="46" r="3" fill="#60a5fa"/>
+  <text x="600" y="51" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" letter-spacing="2" fill="#a9c1d9">UNDERSTAND <tspan fill="#5eead4">��</tspan> BUILD <tspan fill="#5eead4">��</tspan> VERIFY <tspan fill="#5eead4">��</tspan> ITERATE</text>
+</svg>
