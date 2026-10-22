@@ -53,25 +53,6 @@
 
 <br />
 
-## / 技术与实践
-
-| 方向 | 项目中使用的技术与方法 |
-| :--- | :--- |
-| AI 应用 | Agent Skills · 多平台内容生成 · 工作流与人工审核 |
-| Web 开发 | TypeScript · React · Vue 3 · Python · FastAPI · Java · Spring Boot |
-| 桌面与数据 | Tauri · PostgreSQL · Redis · 本地保险库 |
-| 工程方法 | 需求追溯 · PRD · feature 交付 · 测试与验收 |
-
-<br />
-
-## / 我在意的事
-
-- **先把问题说清。** 保留需求依据，把未知项留在明处。
-- **让工具贴近使用。** 从真实任务出发，减少多余步骤。
-- **让结果经得起验证。** 记录改动、检查结果，再继续迭代。
-
-<br />
-
 <p align="center">
   <img src="./assets/footer-tech.svg" width="100%" alt="Understand → Build → Verify → Iterate" />
 </p>
