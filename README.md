@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="xtianyaa — AI applications, developer tools and engineering practice" />
+  <img src="./assets/header.svg?v=2" width="100%" alt="xtianyaa — AI applications, developer tools and engineering practice" />
 </p>
 
 ### 你好，我是 xtianyaa
@@ -73,5 +73,5 @@
 <br />
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Understand → Build → Verify → Iterate" />
+  <img src="./assets/footer.svg?v=2" width="100%" alt="Understand → Build → Verify → Iterate" />
 </p>
